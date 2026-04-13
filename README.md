@@ -38,7 +38,7 @@ Hi there! 👋<br>✭ I’m Fahim Hasan Kabbo, <br>a passionate Front-End Develo
 # 📊 GitHub Stats:
 
 <div>
-<img align="right" alt="Coding" color="black" width="340" src="https://miro.medium.com/1*h7GMfvHKvLPkynG9NvULJw.gif">
+<img align="right" alt="Coding" color="black" width="335" src="https://miro.medium.com/1*h7GMfvHKvLPkynG9NvULJw.gif">
 </div>
 
 ![](https://github-readme-stats.shion.dev/api?username=fahimhasankabbo1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
